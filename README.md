@@ -1,4 +1,11 @@
-## Hi there 👋
+## I am THE Tingly Pingly
+
+Certified loverboy? Certified FRONT END DEVELOPER 🗣️🗣️🙏
+(i can do backend too 🙏)
+
+Part of the SIGMA SOCIETY
+
+Working on projects trust im not lazy
 
 <!--
 **SanixWheee/SanixWheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
