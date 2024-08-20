@@ -1,11 +1,28 @@
-## I am THE Tingly Pingly
 
-Certified loverboy? Certified FRONT END DEVELOPER 🗣️🗣️🙏
-(i can do backend too 🙏)
+# The one and only front end developer
+Part of the Sigma Society
 
-Part of the SIGMA SOCIETY
+## Proficiencies
+- Front End
+  - HTML/CSS/JS
+  - React
+  - Tailwind 
+- Python
+  - Machine Learning (without libraries)
+- C#
+  - Unity
+- 
 
-Working on projects trust im not lazy
+## Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanixWheee&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanixWheee&layout=compact&theme=ambient_gradient&hide_border=true"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SanixWheee&theme=ambient_gradient&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **SanixWheee/SanixWheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
