@@ -36,9 +36,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SanixWheee&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SanixWheee)](https://git.io/streak-stats)
 </p>
 
 
