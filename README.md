@@ -1,9 +1,10 @@
 
 <h1>The one and only front end developer</h1> 
 <ul>
-  <li>Part of the Sigma Society</li>
+  <li>Part of [The Sigma Society](https://github.com/TheSigmaSociety)</li>
   <li>I code games, do web dev, and make ML models</li>
   <li>Other than coding I play videogames, make music, and edit videos</li>
+  <li>I also play badminton and do taekwondo</li>
 </ul>
 
 <h2>Proficiencies</h2>
