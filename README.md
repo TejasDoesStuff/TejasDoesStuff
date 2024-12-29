@@ -25,6 +25,14 @@
 </ul>
 <h4>Java</h4>
 
+<h2>Current Projects:</h2>
+<li>
+  Website for FRC Team 5827 Code Purple
+</li>
+<li>
+  Website for FBLA Website Development and Programming
+</li>
+
 <h2>Github Stats</h2>
 
 <p align="center">
