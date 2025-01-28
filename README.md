@@ -2,7 +2,7 @@
 
 - Part of [The Sigma Society](https://github.com/TheSigmaSociety)
 - I code games, do web dev, and make ML models
-- Other than coding I play videogames, make music, and edit videos
+- Other than coding I play videogames, make music, edit videos, and do graphic design
 - I also play badminton and do taekwondo
 
 ## Proficiencies
