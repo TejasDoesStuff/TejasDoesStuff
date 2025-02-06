@@ -2,29 +2,26 @@
 
 - Part of [The Sigma Society](https://github.com/TheSigmaSociety)
 - I code games, do web dev, and make ML models
+- Full stack, but focus in front end
 - Other than coding I play videogames, make music, edit videos, and do graphic design
 - I also play badminton and do taekwondo
 
 ## Proficiencies
-
 #### Front End
-- HTML/CSS/JS
-- React
-- Tailwind
-- Next.js
+[![Front End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma)](https://skillicons.dev)
 
-#### Python
-- Machine Learning (without libraries)
-- Just like python yk
+#### Back End
+[![Back End](https://skillicons.dev/icons?i=py,cs,java)](https://skillicons.dev)
 
-#### C#
-- Unity
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,eclipse,unity, )](https://skillicons.dev)
 
-#### Java
+#### Other
+Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
 
 ## Current Projects
 - Website for FRC Team 5827 Code Purple
-- Website for FBLA Website Development and Programming
+- Alien Helper Game
 
 ## Github Stats
 
