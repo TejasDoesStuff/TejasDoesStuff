@@ -22,6 +22,7 @@ Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
 ## Current Projects
 - Website for FRC Team 5827 Code Purple
 - Alien Helper Game
+- Paper to txt ml model
 
 ## Github Stats
 
