@@ -1,7 +1,7 @@
 # The one and only front end developer
 
 - Part of [The Sigma Society](https://github.com/TheSigmaSociety)
-- I code games, do web dev, and make ML models
+- I code games, do web dev, do ML, and just other fun stuff :D
 - Full stack, but focus in front end
 - Other than coding I play videogames, make music, edit videos, and do graphic design
 - I also play badminton and do taekwondo
