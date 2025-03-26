@@ -8,13 +8,13 @@
 
 ## Proficiencies
 #### Front End
-[![Front End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma)](https://skillicons.dev)
+[![Front End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,md,figma)](https://skillicons.dev)
 
 #### Back End
-[![Back End](https://skillicons.dev/icons?i=py,cs,java)](https://skillicons.dev)
+[![Back End](https://skillicons.dev/icons?i=py,cs,java,fastapi)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,eclipse,unity, )](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,eclipse,unity,npm,vercel)](https://skillicons.dev)
 
 #### Other
 Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
