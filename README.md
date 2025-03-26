@@ -20,7 +20,7 @@
 Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
 
 ## Current Projects
-- Website for FRC Team 5827 Code Purple
+- Music Recognizer
 - Alien Helper Game
 - Particle Gravity Sim
 
