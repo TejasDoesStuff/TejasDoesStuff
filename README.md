@@ -20,9 +20,7 @@
 Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
 
 ## Current Projects
-- Music Recognizer
 - Alien Helper Game
-- Particle Gravity Sim
 
 ## Github Stats
 
