@@ -6,6 +6,10 @@
 - Other than coding I play videogames, make music, edit videos, and do graphic design
 - I also play badminton and do taekwondo
 
+## Current Projects
+- Tau Game Engine
+- Zig Zag Zoe
+
 ## Proficiencies
 #### Front End
 [![Front End](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,md,figma)](https://skillicons.dev)
@@ -19,10 +23,7 @@
 #### Other
 Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
 
-## Current Projects
-- Alien Helper Game
-
-## Github Stats
+<!-- ## Github Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
@@ -31,7 +32,7 @@ Adobe Photoshop, Adobe Lightroom, DaVinci Resolve, FL Studio
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasDoesStuff&layout=compact&theme=ambient_gradient&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 <!--
 **SanixWheee/SanixWheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
