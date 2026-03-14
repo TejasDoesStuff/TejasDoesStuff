@@ -7,8 +7,7 @@
 - I also play badminton and do taekwondo
 
 ## Current Projects
-- Tau Game Engine
-- Zig Zag Zoe
+- Corner Warfare (game)
 
 ## Proficiencies
 #### Front End
